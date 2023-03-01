@@ -4,28 +4,28 @@
 
 ### Author Links
 
-👋 Hello, I'm Dave Gray.
+👋 Hello, I'm Adhi Kharisma Yustisio.
 
-📚 [My Courses](https://courses.davegray.codes/)
+📚 [My Courses](https://.../)
 
-✅ [Check out my YouTube Channel with hundreds of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✅ [Check out my YouTube Channel with hundreds of tutorials](https://www.youtube.com/...).
 
-🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
+🚩 [Subscribe to my channel](https://bit.ly/...)
 
-☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
+☕ [Buy Me A Coffee](https://buymeacoffee.com/...)
 
 🚀 Follow Me:
 
-- [Twitter](https://twitter.com/yesdavidgray)
-- [LinkedIn](https://www.linkedin.com/in/davidagray/)
-- [Blog](https://yesdavidgray.com)
-- [Reddit](https://www.reddit.com/user/DaveOnEleven)
+- [Twitter](https://twitter.com/...)
+- [LinkedIn](https://www.linkedin.com/in/adhikharisma-yustisio)
+- [Blog](https://....com)
+- [Reddit](https://www.reddit.com/user/...)
 
 ---
 
 ### 📚 Free Git Cheatsheat
 
-🔗 [Download the Git Cheatsheat for Beginners](https://courses.davegray.codes/git-cheatsheet-for-beginners)
+🔗 [Download Dave-Gray Git Cheatsheat for Beginners](https://courses.davegray.codes/git-cheatsheet-for-beginners)
 
 ---
 
