@@ -17,7 +17,7 @@
 🚀 Follow Me:
 
 - [Twitter](https://twitter.com/...)
-- [LinkedIn](https://www.linkedin.com/in/adhikharisma-yustisio)
+- [LinkedIn](https://www.linkedin.com/in/adhi-kharisma-yustisio)
 - [Blog](https://....com)
 - [Reddit](https://www.reddit.com/user/...)
 
